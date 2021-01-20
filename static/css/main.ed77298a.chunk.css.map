@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,YACE,WAAY,CACZ,cAAe,CACf,iBAAkB,CAClB,kBACF","file":"main.ed77298a.chunk.css","sourcesContent":[".App button {\n  height: 40px;\n  min-width: 40px;\n  margin-right: 20px;\n  border-radius: 10px;\n}\n"]}
